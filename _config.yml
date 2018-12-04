@@ -25,7 +25,7 @@ github_username:  nlmchh
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 plugins:
   - jekyll-feed
 
